@@ -1,0 +1,12 @@
+.text-center-footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    margin-top: 40px;
+  
+  }
+  .footer-logo{
+    padding-top: 10px;
+  }
